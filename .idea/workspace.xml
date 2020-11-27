@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16ed0098-677d-4c5d-8f29-e4825231ad32" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1kKvcPYSXYk5gS6DH1kc59MirIm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/tests/02_sync" />
+      <recent name="$PROJECT_DIR$/src/tests/intro" />
+      <recent name="$PROJECT_DIR$/src/tests" />
+      <recent name="$PROJECT_DIR$/src/components/Forms" />
+      <recent name="$PROJECT_DIR$/public/img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="src/js/main.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16ed0098-677d-4c5d-8f29-e4825231ad32" name="Default Changelist" comment="" />
+      <created>1605462175921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605462175921</updated>
+      <workItem from="1605462177006" duration="4692000" />
+      <workItem from="1605517661697" duration="45535000" />
+      <workItem from="1606227218083" duration="18786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606235387949">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="0" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.819@0.23.1440.819" timestamp="1606235387949" />
+    <state x="135" y="186" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605513202985">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="135" y="186" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.819@0.23.1440.819" timestamp="1605513202985" />
+    <state x="0" y="23" key="FileDocumentManager.FileCacheConflict" timestamp="1606227449480">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="0" y="23" key="FileDocumentManager.FileCacheConflict/0.23.1440.819@0.23.1440.819" timestamp="1606227449480" />
+    <state width="774" height="211" key="GridCell.Tab.0.bottom" timestamp="1606235029707">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="774" height="211" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1606235029707" />
+    <state width="774" height="211" key="GridCell.Tab.0.center" timestamp="1606235029706">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="774" height="211" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1606235029706" />
+    <state width="774" height="211" key="GridCell.Tab.0.left" timestamp="1606235029706">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="774" height="211" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1606235029706" />
+    <state width="774" height="211" key="GridCell.Tab.0.right" timestamp="1606235029707">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="774" height="211" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1606235029707" />
+    <state x="0" y="71" key="SettingsEditor" timestamp="1606236913706">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="0" y="71" key="SettingsEditor/0.23.1440.819@0.23.1440.819" timestamp="1606236913706" />
+  </component>
+</project>
